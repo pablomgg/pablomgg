@@ -1,9 +1,11 @@
 ### Hi, i'm Pablo 👋
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomgg&theme=maroongold" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablomgg&theme=maroongold&show_icons=true" /> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomgg&theme=maroongold" />
+  &nbsp;
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=pablomgg&theme=maroongold&show_icons=true" /> 
 </div>  
-<div style="display: inline_block"><br>
+<div>
+  </br>
   <img align="center" alt="pablomgg-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   <img align="center" alt="pablomgg-Dot-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"> 
   <img align="center" alt="pablomgg-Dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -15,7 +17,8 @@
   <img align="center" alt="pablomgg-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="pablomgg-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="pablomgg-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"> 
-  <img align="center" alt="pablomgg-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+  <img align="center" alt="pablomgg-Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
+  <img align="center" alt="pablomgg-Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg" >
 </div>
 
 ---
