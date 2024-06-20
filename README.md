@@ -16,7 +16,6 @@
   <img align="center" alt="pablomgg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="pablomgg-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="pablomgg-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="pablomgg-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"> 
   <img align="center" alt="pablomgg-Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" alt="pablomgg-Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg" >
 </div>
