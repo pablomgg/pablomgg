@@ -1,8 +1,8 @@
 ### Hi, i'm Pablo 👋
 <div> 
-  <img height="200em" src="https://pablomgg.vercel.app/api/top-langs/?username=pablomgg&theme=maroongold" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomgg&theme=maroongold" />
   &nbsp;
-  <img height="200em"  src="https://pablomgg.vercel.app/api?username=pablomgg&theme=maroongold&show_icons=true" /> 
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=pablomgg&theme=maroongold&show_icons=true" /> 
 </div>  
 <div>
   </br>
